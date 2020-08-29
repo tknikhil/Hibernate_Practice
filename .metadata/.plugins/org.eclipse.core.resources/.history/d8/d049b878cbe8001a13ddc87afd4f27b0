@@ -1,0 +1,5 @@
+package JPAHibernate;
+
+public class HibernateMain {
+
+}
